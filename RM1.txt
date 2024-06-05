@@ -1,1 +1,1 @@
-11|vivo 1906|{density=2.0,width=720,height=1612}
+13|V2318A
